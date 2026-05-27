@@ -4,5 +4,11 @@
     "version": "v0.0.5",
     "title": "CasaOS Debugger",
     "url": "https://github.com/CorrectRoadH/CasaOS-Debugger/releases/download/v0.0.5/casaos-debugger.raw"
+  },
+  {
+    "name": "hello",
+    "version": "v0.0.2",
+    "title": "hello",
+    "url": "https://github.com/Ns2Kracy/nmod/hello/v0.0.2/hello.raw"
   }
 ]
