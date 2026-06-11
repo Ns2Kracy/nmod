@@ -13,8 +13,8 @@
   },
   {
     "name": "rt",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "title": "Mod Management Playground",
-    "url": "https://github.com/Ns2Kracy/rt/releases/download/v1.0.0/rt.raw"
+    "url": "https://cdn.jsdelivr.net/gh/Ns2Kracy/rt@releases/download/v1.0.1/rt.raw"
   }
 ]
