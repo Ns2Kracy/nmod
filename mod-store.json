@@ -10,5 +10,11 @@
     "version": "v0.0.4",
     "title": "hello",
     "url": "https://cdn.jsdelivr.net/gh/Ns2Kracy/nmod@main/hello/v0.0.4/hello.raw"
+  },
+  {
+    "name": "rt",
+    "version": "v1.0.0",
+    "title": "Mod Management Playground",
+    "url": "https://github.com/Ns2Kracy/rt/releases/download/v1.0.0/rt.raw"
   }
 ]
