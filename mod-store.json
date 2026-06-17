@@ -1,11 +1,5 @@
 [
   {
-    "name": "casaos_debugger",
-    "version": "v0.0.5",
-    "title": "CasaOS Debugger",
-    "url": "https://github.com/CorrectRoadH/CasaOS-Debugger/releases/download/v0.0.5/casaos-debugger.raw"
-  },
-  {
     "name": "hello",
     "version": "v0.0.4",
     "title": "hello",
